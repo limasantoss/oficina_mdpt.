@@ -1,5 +1,18 @@
 # Projeto de Previsão de Temperatura com Redes LSTM
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
 ## Visão Geral
 
 Este projeto implementa um modelo de previsão de temperatura usando uma rede neural recorrente do tipo Long Short-Term Memory (LSTM). O objetivo é prever a temperatura futura com base em dados históricos simulados. O projeto é desenvolvido em Python, utilizando bibliotecas como NumPy, Pandas, Matplotlib, TensorFlow e Scikit-learn.
@@ -55,13 +68,8 @@ O projeto demonstra a capacidade de uma rede LSTM em modelar dados de séries te
 3.  Execute o script Python:
 
     ```bash
-    python seu_script.py  # Substitua 'seu_script.py' pelo nome do seu arquivo
+    python seu_script.py  
     ```
 
-## Melhorias Futuras
 
-* **Otimização de Hiperparâmetros:** Ajustar os hiperparâmetros do modelo LSTM para melhorar a performance.
-* **Dados Reais:** Aplicar o modelo a dados reais de temperatura para validar sua eficácia em cenários práticos.
-* **Recursos Adicionais:** Incorporar outras variáveis (umidade, vento, etc.) para aprimorar a precisão da previsão.
-* **Avaliação Métrica:** Implementar outras métricas de avaliação (RMSE, MAE) para quantificar o desempenho do modelo.
 
